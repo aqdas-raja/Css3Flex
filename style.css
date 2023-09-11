@@ -5,7 +5,7 @@ h1{
 .flexbox-container {
     display: flex;
     justify-content: space-around;
-    align-items: baseline;
+    align-items: stretch;
 }
 
 .flexbox-item {
