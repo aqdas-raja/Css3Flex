@@ -4,7 +4,7 @@ h1{
 }
 .flexbox-container {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .flexbox-item {
